@@ -1,4 +1,4 @@
-package com.xtouchme.gui.swt;
+package com.notjay.utils.gui.swt;
 
 import java.awt.GraphicsDevice;
 import java.awt.GraphicsEnvironment;

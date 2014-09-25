@@ -1,4 +1,4 @@
-package com.xtouchme.utils;
+package com.notjay.utils;
 
 public class Strings {
 
